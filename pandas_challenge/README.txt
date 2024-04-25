@@ -1,0 +1,1 @@
+Errors were resolved using ChatGPT. The code is messy but it delivers the desired product.
